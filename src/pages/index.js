@@ -30,28 +30,29 @@ const Home = () => {
       </div>
       <div class="container pt-5 mb-4 mt-4 pb-4 ">
         <div class="row justify-content-center text-center mb-3">
-          <p class="mb-2 pt-4">Value Props</p>
-          <h3 class="display-4 mb-2 px-3 pb-5 "> What we bring to the table?</h3>
+
+          <h3 class="display-4 mb-2 px-3 pb-5 "> How It Works.</h3>
         </div>
         <div class="row px-4  my-5 text-center">
           <div class="col-md-3  px-4">
             <div class="cs-step-body">
               <img src="https://dhunguru-client-images.s3.ap-south-1.amazonaws.com/one-one-session.svg" alt="" class="img-fluid mb-3 rounded my-5 " />
-              <h3 class="h2 mb-2">One-on-One sessions</h3>
-              <p class="mb-0 text-dark ">Engage with your guru in one-on-one sessions and distil the maximum from personalized classes</p>
+              <h3 class="h2 mb-2">Ask Questions</h3>
+              <p class="mb-0 text-dark ">User can post the Questions for which the solution is not there.</p>
             </div></div>
           <div class="col-md-3   px-4">
             <div class="cs-step-body"><img src="https://dhunguru-client-images.s3.ap-south-1.amazonaws.com/RecordedSessions.svg" alt="" class="img-fluid mb-3 rounded my-5 " />
-              <h3 class="h2 mb-2">All-time access to recordings </h3>
-              <p class="mb-0 text-dark ">Return to recorded sessions anytime, anywhere to maximise your practice and improve your performances</p></div>
+              <h3 class="h2 mb-2">Vote the Answers </h3>
+              <p class="mb-0 text-dark ">User have the facility to vote the answer based on how much efficient and effective it is.</p></div>
           </div><div class="col-md-3  px-4">
             <div class="cs-step-body">
               <img src="https://dhunguru-client-images.s3.ap-south-1.amazonaws.com/firstOneOnUs.svg" alt="" class="img-fluid mb-3 rounded my-5 " />
-              <h3 class="h2 mb-2">First Session Free</h3><p class="mb-0 text-dark ">Book a first session with the guru of your choice and enjoy the experience at no cost</p></div></div>
+              <h3 class="h2 mb-2">Answer Questions</h3>
+              <p class="mb-0 text-dark ">User can give the answer of the question posted</p></div></div>
           <div class="col-md-3 px-4">
             <div class="cs-step-body">
               <img src="https://dhunguru-client-images.s3.ap-south-1.amazonaws.com/Satisfactionguaranteed.svg" alt="" class="img-fluid mb-3 rounded my-5" />
-              <h3 class="h2 mb-2">Build your own journey</h3><p class="mb-0 text-dark ">Decide everything about your Journey - the Gurus, the sessions, and the timings as per your budget</p>
+              <h3 class="h2 mb-2">Get Reputation</h3><p class="mb-0 text-dark ">User get reputation point for the question asked and answer given.</p>
             </div>
           </div>
         </div>
